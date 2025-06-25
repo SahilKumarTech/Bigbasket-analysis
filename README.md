@@ -1,4 +1,4 @@
-# Bigbasket-analysis
+# Bigbasket-Analysis
 Data analysis on BigBasket product dataset using Python.
 # BigBasket Product Analysis 🛒
 
