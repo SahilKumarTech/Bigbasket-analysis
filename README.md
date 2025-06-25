@@ -1,7 +1,6 @@
 # Bigbasket-Analysis
 Data analysis on BigBasket product dataset using Python.
-# BigBasket Product Analysis 🛒
-
+ 
 This project explores and analyzes a product dataset from BigBasket using Python, pandas, and visualization libraries.
 
 ## 📌 Objective
